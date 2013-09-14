@@ -1,4 +1,9 @@
 *.class
+target
+bin
+*.back
+*.bak
+*.springBeans
 
 # Package Files #
 *.jar
