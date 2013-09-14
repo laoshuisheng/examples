@@ -4,6 +4,9 @@ bin
 *.back
 *.bak
 *.springBeans
+*.classpath
+*.settings
+*.project
 
 # Package Files #
 *.jar
