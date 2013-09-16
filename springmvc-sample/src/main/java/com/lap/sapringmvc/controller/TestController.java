@@ -5,7 +5,7 @@
 package com.lap.sapringmvc.controller;
 
 /**
- * @author 劳水生 
+ * @author 劳水生
  * @File TestController.java Date:2013-9-14 上午10:55:16 2013
  */
 public class TestController {
